@@ -1,2 +1,6 @@
 # hello-world
-This is my 1st repository for learning.
+
+Hi, Humans!
+
+Hubot here. I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior o Earth tacos.
